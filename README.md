@@ -1,12 +1,11 @@
 # Boilerplate for Java initiation - Chat
 
-This project is a simple boilerplate with SpringBoot and Maven.
+This project is a simple boilerplate with SpringBoot and Gradle.
 
 ## Build
 
-``sh
+```sh
 # Requirements : Java 1.8
 # To build :
-mvn package
-``
-`
+gradle bootRun
+```
