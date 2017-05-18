@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "sockjs-client": "^1.1.4",
+    "webstomp-client": "^1.0.6"
+  }
+}
